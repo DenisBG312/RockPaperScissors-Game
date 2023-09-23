@@ -1,5 +1,7 @@
-
-# The Rock Paper Scissors Game 
+# <h1 align="center">The Rock Paper Scissors Game</h1>
+<p align="center">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png">
+</p>
 This is a simple console game, where you can play against the computer.
 To stop the game and see the final points, you can write ***End Game***.
 
