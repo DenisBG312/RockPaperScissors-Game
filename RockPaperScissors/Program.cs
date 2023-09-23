@@ -121,6 +121,7 @@ namespace RockPaperScissors
             string winner = "";
             if (input == "End Game")
             {
+                Console.WriteLine();
                 Console.WriteLine($"Total points:");
                 Console.WriteLine($"Player: {playerScore}, Computer: {computerScore}");
                 if (playerScore > computerScore)
