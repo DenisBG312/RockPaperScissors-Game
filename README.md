@@ -5,6 +5,7 @@
 This is a simple console game, where you can play against the computer.
 To stop the game and see the final points, you can write **The Game**
 
+TEST THE GAME DIRECTLY FROM HERE: https://replit.com/@Denis132/RockPaperScissors?v=1
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
